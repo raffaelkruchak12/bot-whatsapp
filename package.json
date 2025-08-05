@@ -1,0 +1,17 @@
+{
+  "name": "bot-rafael-whatsapp",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp com Baileys que responde automaticamente com respostas personalizadas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.18",
+    "express": "^5.1.0",
+    "qrcode": "^1.5.4"
+  }
+}
